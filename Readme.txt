@@ -1,4 +1,9 @@
-How to run the Car Washing  Management System Project Using PHP and MySQL
+## Library Hub :
+The Library Management System is a software application developed using Java, Java Swing, and MySQL. This system  
+aims to automate the processes involved in managing a library, such as cataloging books, managing member  
+information, and handling book issue and return transactions.
+
+## How to run the Car Washing  Management System Project Using PHP and MySQL :
 
 1.Download the zip file
 
