@@ -1,7 +1,7 @@
-## Library Hub :
-The Library Management System is a software application developed using Java, Java Swing, and MySQL. This system  
-aims to automate the processes involved in managing a library, such as cataloging books, managing member  
-information, and handling book issue and return transactions.
+## Auto Shine :
+In AutoShine project in PHP performed all the operations needed to clean the car successfully.We made a website on  
+which user visit and select plan for their car wash.The owner get detail of user using Xamp server and owner get all 
+detail of user.  
 
 ## How to run the Car Washing  Management System Project Using PHP and MySQL :
 
